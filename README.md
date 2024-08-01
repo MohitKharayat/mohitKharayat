@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **mohitkharayat0@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkharayat&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkharayat" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitkharayat" alt="mohitkharayat" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
